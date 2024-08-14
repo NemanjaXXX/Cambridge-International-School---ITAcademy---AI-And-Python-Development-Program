@@ -1,0 +1,2 @@
+# Cambridge-International-School---ITAcademy---AI-And-Python-Development-Program
+Python and Programming Fundamentals. Object Oriented Programming in Python. Python Net Programming.MySQL Programming and Administration. Web Application Building.Python Data Access and Processing. Graphic Applications Development.Test Automation and Quality Assurance.Service Applications Development. Blockchain Technologies.Machine Learning and AI.
