@@ -1,4 +1,4 @@
-==========================================================================LINK================================================================================
+=============================================================================LINK===================================================================================
 
 1. This video is devoted to my friends Bojan and Ana who were with me in very difficult moments of my life. The game has a boy and a girl named as my friends.
 
@@ -30,7 +30,8 @@
 
 11. This project is still under development as I don't have enough time to complete it at the moment.
 
-12. Everything you will see is the fruit of my exhaustive work. The only resource used that I didn't make were pictures, because I'm not an artist and I don't know how to draw. I have just processed and designed certain elements in multiple programs and tools to be suitable for use in the program. I programmed some auxiliary tools(like Renamer__Resizer_ExtensionChanger) myself, because I needed to change the name, size or extension of thousands of files. And that project is available on my GitHub account.
+12. Everything you will see is the fruit of my exhaustive work. The only resource used that I didn't make were pictures, because I'm not an artist and I don't know how to draw. 
+   I have just processed and designed certain elements in multiple programs and tools to be suitable for use in the program. I programmed some auxiliary tools(like Renamer__Resizer_ExtensionChanger) myself, because I needed to change the name, size or extension of thousands of files. And that project is available on my GitHub account.
 
 13. The programming code and other resources used are not public because I don't want anyone to misuse them, but everything is available upon request.
 
@@ -38,4 +39,4 @@
 
 15. Thank you very much for watching.
 
-==============================================================================================================================================================
+=======================================================================================================================================================================
