@@ -31,7 +31,8 @@
 11. This project is still under development as I don't have enough time to complete it at the moment.
 
 12. Everything you will see is the fruit of my exhaustive work. The only resource used that I didn't make were pictures, because I'm not an artist and I don't know how to draw. 
-   I have just processed and designed certain elements in multiple programs and tools to be suitable for use in the program. I programmed some auxiliary tools(like Renamer__Resizer_ExtensionChanger) myself, because I needed to change the name, size or extension of thousands of files. And that project is available on my GitHub account.
+   I have just processed and designed certain elements in multiple programs and tools to be suitable for use in the program. I programmed some auxiliary 
+tools(like Renamer__Resizer_ExtensionChanger) myself, because I needed to change the name, size or extension of thousands of files. And that project is available on my GitHub account.
 
 13. The programming code and other resources used are not public because I don't want anyone to misuse them, but everything is available upon request.
 
